@@ -5,8 +5,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>bootstrap</title>
-  <link rel="stylesheet" href="css/bootstrap.css" />
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="bootstrap.css" />
+  <link rel="stylesheet" href="style.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -16,7 +16,7 @@
       <!--navigation bar-->
       <nav class="navbar navbar-expand-sm sticky-top bg-light">
         <a class="navbar-brand" href="#">
-          <img src="./assets/Logo.png" width="187" height="40" class="d-inline-block align-top" alt="" />
+          <img src="Logo.png" width="187" height="40" class="d-inline-block align-top" alt="" />
         </a>
         <ul class="nav justify-content-center">
           <li class="nav-item">
@@ -54,7 +54,7 @@
                   <button class="btn btn-primary">Get in touch</button>
                 </div>
                 <div class="col-xl-6 col-md-6 col-sm-12 col-12 p-5">
-                  <img src="./assets/hero.png" class="w-100" />
+                  <img src="hero.png" class="w-100" />
                 </div>
               </div>
             </div>
@@ -70,7 +70,7 @@
           <div class="row">
             <div class="col-xl-3 col-md-6 col-sm-12 col-12">
               <div class="p-2" style="width: auto;background-color: aliceblue">
-                <img src="./assets/product-chain 1.png" class="card-img-top" style="height: 53.33px; width: 53px;"
+                <img src="product-chain 1.png" class="card-img-top" style="height: 53.33px; width: 53px;"
                   alt="..." />
                 <div class="">
                   <br>
@@ -85,7 +85,7 @@
 
             <div class="col-xl-3 col-md-6 col-sm-12 col-12 p-2 ">
               <div class="p-2" style="width: 18rem;background-color: aliceblue">
-                <img src="./assets/Branding & Logo.png" class="card-img-top" style="height: 53.33px; width: 53px;"
+                <img src="Branding & Logo.png" class="card-img-top" style="height: 53.33px; width: 53px;"
                   alt="..." />
                 <div class="">
                   <br>
@@ -101,7 +101,7 @@
 
             <div class="col-xl-3 col-md-6 col-sm-12 col-12 p-2 ">
               <div class="p-2" style="width: 18rem;background-color: aliceblue">
-                <img src="./assets/UI & UX Design.png" class="card-img-top" style="height: 53.33px; width: 53px;"
+                <img src="UI & UX Design.png" class="card-img-top" style="height: 53.33px; width: 53px;"
                   alt="..." />
                 <div class="">
                   <br>
@@ -116,7 +116,7 @@
 
             <div class="col-xl-3 col-md-6 col-sm-12 col-12 p-2 ">
               <div class="p-2" style="width: 18rem;background-color: aliceblue">
-                <img src="./assets/Webflow Development.png" class="card-img-top" style="height: 53.33px; width: 53px;"
+                <img src="Webflow Development.png" class="card-img-top" style="height: 53.33px; width: 53px;"
                   alt="..." />
                 <div class="">
                   <br>
@@ -141,7 +141,7 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-6 col-md-6 col-sm-12 col-12 p-5">
-              <img src="./assets/About Me.png" class="w-100" alt="">
+              <img src="About Me.png" class="w-100" alt="">
             </div>
             <div class="col-xl-6 col-md-6 col-sm-12 col-12 p-5">
               <p>About Me</p>
@@ -166,7 +166,7 @@
                   </div>
                   <div>
                     <button class="btn p-3" style="background-color: #E62872;"><span style="color:white">
-                        <img src="./assets/basketball.svg" alt="" style="width: 32px; height: 32px; color: white;">
+                        <img src="basketball.svg" alt="" style="width: 32px; height: 32px; color: white;">
                         Visit My Dribbble</span></button>
                   </div>
                 </div>
@@ -174,7 +174,7 @@
                 <div class="row">
                   <div class="col-xl-4 col-md-4 col-sm-12 col-12 p-5">
                     <div class="card" style="width:350px">
-                      <img class="card-img-top" src="./assets/Placeholder/Image.png" alt="Card image">
+                      <img class="card-img-top" src="Placeholder/Image.png" alt="Card image">
                       <div class="card-body">
                         <h4 class="card-title">Ahuse</h4>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius
@@ -192,7 +192,7 @@
                   </div>
                   <div class="col-xl-4 col-md-4 col-sm-12 col-12 p-5">
                     <div class="card" style="width:350px">
-                      <img class="card-img-top" src="./assets/Placeholder/Image-1.png" alt="Card image">
+                      <img class="card-img-top" src="Placeholder/Image-1.png" alt="Card image">
                       <div class="card-body">
                         <h4 class="card-title">App Dashboard</h4>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius
@@ -210,7 +210,7 @@
                   </div>
                   <div class="col-xl-4 col-md-4 col-sm-12 col-12 p-5">
                     <div class="card" style="width:350px">
-                      <img class="card-img-top" src="./assets/Placeholder/Image-2.png" alt="Card image">
+                      <img class="card-img-top" src="Placeholder/Image-2.png" alt="Card image">
                       <div class="card-body">
                         <h4 class="card-title">Easy Rent</h4>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius
@@ -239,11 +239,11 @@
                         <div class="card" style="width: 22rem;">
                           <div class="card-body">
                             <h5 class="card-title">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
                             </h5>
                             <br>
                             <p class="card-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
@@ -257,11 +257,11 @@
                         <div class="card" style="width: 22rem;">
                           <div class="card-body">
                             <h5 class="card-title">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
                             </h5>
                             <br>
                             <p class="card-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
@@ -275,11 +275,11 @@
                         <div class="card" style="width: 22rem;">
                           <div class="card-body">
                             <h5 class="card-title">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
-                              <img src="./assets/Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
+                              <img src="Vector.png" style="width: 27px; height: 25px;" alt="">
                             </h5>
                             <br>
                             <p class="card-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
@@ -359,7 +359,7 @@
         <div class="row">
           <div class="col-xl-1 col-md-1 col-sm-12 col-12">
             <a class="navbar-brand" href="#">
-              <img src="./assets/Logo.png" width="145" height="30" class="d-inline-block align-top" alt="" />
+              <img src="Logo.png" width="145" height="30" class="d-inline-block align-top" alt="" />
             </a>
           </div>
           <div class="col-xl-1 col-md-1 col-sm-12 col-12"></div>
@@ -373,10 +373,10 @@
           <div class="col-xl-1 col-md-1 col-sm-12 col-12"></div>
 
           <div class="col-xl-2 col-md-2 col-sm-12 col-12">
-            <img src="./assets/Facebook.png" style="width: 24px; height: 24px;" alt="">
-            <img src="./assets/Twitter.png" style="width: 24px; height: 24px;" alt="">
-            <img src="./assets/Instagram.png" style="width: 24px; height: 24px;" alt="">
-            <img src="./assets/LinkedIn.png" style="width: 24px; height: 24px;" alt="">
+            <img src="Facebook.png" style="width: 24px; height: 24px;" alt="">
+            <img src="Twitter.png" style="width: 24px; height: 24px;" alt="">
+            <img src="Instagram.png" style="width: 24px; height: 24px;" alt="">
+            <img src="LinkedIn.png" style="width: 24px; height: 24px;" alt="">
           </div>
         </div>
       </div>
